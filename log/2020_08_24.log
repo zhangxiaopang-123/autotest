@@ -1,0 +1,2 @@
+Mon, 24 Aug 2020 16:59:03:wirte_log.py[line:18] INFO 1222
+Mon, 24 Aug 2020 16:59:03:wirte_log.py[line:18] INFO {'code': 1002, 'message': 'login-required', 'data': None}

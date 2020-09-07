@@ -1,0 +1,225 @@
+Tue, 01 Sep 2020 15:01:37:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 15:01:37:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 15:01:37:wirte_log.py[line:18] INFO 1.2
+Tue, 01 Sep 2020 15:01:38:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc', 'type': 'step0'}
+Tue, 01 Sep 2020 15:01:38:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 15:01:38:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 15:01:38:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 1, 'symbol': 'zhfbtc', 'price': 1.9127, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943698, 'sign': 'f5896f65b633b271205e87b0866deaea'}
+Tue, 01 Sep 2020 15:01:38:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:38:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 10}}
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 2, 'symbol': 'zhfbtc', 'price': 1.2962, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943698, 'sign': 'e0874cd5d7dcc4711af38592053fbeb7'}
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 11}}
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 3, 'symbol': 'zhfbtc', 'price': 1.3632, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943699, 'sign': 'e2fbda092a3e228527172d5de2743d01'}
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 12}}
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 4, 'symbol': 'zhfbtc', 'price': 1.4684, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943699, 'sign': 'e356c1108598e1dd9fb6a091d21758b0'}
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:39:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 13}}
+Tue, 01 Sep 2020 15:01:40:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 5, 'symbol': 'zhfbtc', 'price': 1.2971, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943700, 'sign': '1b5a48948bb3c46ef81115dcfe27f8e8'}
+Tue, 01 Sep 2020 15:01:40:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:40:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 14}}
+Tue, 01 Sep 2020 15:01:40:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 6, 'symbol': 'zhfbtc', 'price': 1.8220999999999998, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943700, 'sign': 'd6ec0ae27c76b6cc85d90f0978eb44d6'}
+Tue, 01 Sep 2020 15:01:40:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:40:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 7, 'symbol': 'zhfbtc', 'price': 1.5393, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943700, 'sign': '555fc9a66cb9933476896b43b3a87626'}
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 15}}
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 8, 'symbol': 'zhfbtc', 'price': 1.7684, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943701, 'sign': '3ddfbbf2ce7cc1b2c88d51a6a749c271'}
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 16}}
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 9, 'symbol': 'zhfbtc', 'price': 1.5786, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943701, 'sign': '3bc738fe2ca1b01ab863fcee4e39a49e'}
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:41:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 17}}
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 10, 'symbol': 'zhfbtc', 'price': 1.4163999999999999, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943701, 'sign': '45d911fe27dcae7dfbb7e28f687fd2c4'}
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 11, 'symbol': 'zhfbtc', 'price': 1.2114, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943702, 'sign': 'a03ad7f1e67025b287b7e78b09676712'}
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 18}}
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 12, 'symbol': 'zhfbtc', 'price': 1.9909, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943702, 'sign': 'bd9c0c1589ddb5c14b35cd756c4c5778'}
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:42:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 19}}
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 13, 'symbol': 'zhfbtc', 'price': 1.9019, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943702, 'sign': 'a8b45f0c5fecf0f44fdbcb455ff87efd'}
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 20}}
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 14, 'symbol': 'zhfbtc', 'price': 1.2718, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943703, 'sign': '33bd67a6e18f35f15a3830f2ea0ab475'}
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 21}}
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 15, 'symbol': 'zhfbtc', 'price': 1.8799, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943703, 'sign': '7f7c4c88b8e8eef2cdaa54e18158bac6'}
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:43:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 22}}
+Tue, 01 Sep 2020 15:01:44:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 16, 'symbol': 'zhfbtc', 'price': 1.9012, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943704, 'sign': '67a4cee44aec1e9cceab1d3794787c89'}
+Tue, 01 Sep 2020 15:01:44:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:44:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 23}}
+Tue, 01 Sep 2020 15:01:44:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 17, 'symbol': 'zhfbtc', 'price': 1.232, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943704, 'sign': '5495ed12fd9581107ad50e1cfa834552'}
+Tue, 01 Sep 2020 15:01:44:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:44:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 24}}
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 18, 'symbol': 'zhfbtc', 'price': 1.2637, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943704, 'sign': 'ae91b4860493c73347828bf67615037e'}
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 25}}
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 19, 'symbol': 'zhfbtc', 'price': 1.9691, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943705, 'sign': 'dbbf58cc556e4a3a09569c54c5eaf3c4'}
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 26}}
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 20, 'symbol': 'zhfbtc', 'price': 2.1882, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943705, 'sign': 'ba1463504cd36e793321aee9cd46a0a6'}
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:45:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 27}}
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 1, 'symbol': 'zhfbtc', 'price': 0.5310999999999999, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943705, 'sign': 'c1b4b6b2e817acd62bf1246ea74368f5'}
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 2, 'symbol': 'zhfbtc', 'price': 0.7508999999999999, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943706, 'sign': '36de64d77fceb218541d201efa97d87b'}
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 3, 'symbol': 'zhfbtc', 'price': 0.2832, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943706, 'sign': '41f3367381bd60b11f428537a577bac9'}
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:46:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 28}}
+Tue, 01 Sep 2020 15:01:47:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 4, 'symbol': 'zhfbtc', 'price': 0.362, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943707, 'sign': 'aa22ed17188eefb5daab03bcac5db197'}
+Tue, 01 Sep 2020 15:01:47:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:47:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 29}}
+Tue, 01 Sep 2020 15:01:47:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 5, 'symbol': 'zhfbtc', 'price': 0.6665, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943707, 'sign': '0ddf1bbfa0110bd696a80de3d3d08b26'}
+Tue, 01 Sep 2020 15:01:47:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:47:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 30}}
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 6, 'symbol': 'zhfbtc', 'price': 0.8644, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943707, 'sign': '07d864dfe6a26458e5baf31aa8d0df1e'}
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 31}}
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 7, 'symbol': 'zhfbtc', 'price': 1.1347, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943708, 'sign': '53f9da00720b0f2c8eeac3d9d6689b6f'}
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 32}}
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 8, 'symbol': 'zhfbtc', 'price': 0.8720999999999999, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943708, 'sign': '59e36c05fe1e408a6116b08fb22511f4'}
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:48:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 9, 'symbol': 'zhfbtc', 'price': 0.5953999999999999, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943708, 'sign': 'ba6a3e2529d828fc901ea37b9550a6e0'}
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 10, 'symbol': 'zhfbtc', 'price': 0.40569999999999995, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943709, 'sign': 'eb5b5ad83c180642af7f1532bc7afa6b'}
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 11, 'symbol': 'zhfbtc', 'price': 0.7671999999999999, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943709, 'sign': '4c60e419f3920b30cffbedf61af7a37e'}
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:49:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:50:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 12, 'symbol': 'zhfbtc', 'price': 0.3591, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943710, 'sign': '1e03fba24c8f311f1feacb6a71c0f050'}
+Tue, 01 Sep 2020 15:01:50:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:50:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 33}}
+Tue, 01 Sep 2020 15:01:50:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 13, 'symbol': 'zhfbtc', 'price': 1.1118999999999999, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943710, 'sign': '5742c5446c6a13c65e8aa16a8c14096a'}
+Tue, 01 Sep 2020 15:01:50:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:50:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:51:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 14, 'symbol': 'zhfbtc', 'price': 1.1895, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943711, 'sign': 'f1f31b68ba55f5d3115b0c5c5ef1acd8'}
+Tue, 01 Sep 2020 15:01:51:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:51:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 34}}
+Tue, 01 Sep 2020 15:01:51:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 15, 'symbol': 'zhfbtc', 'price': 0.34809999999999997, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943711, 'sign': 'f6004501e93a83fdba16651675a3f6b1'}
+Tue, 01 Sep 2020 15:01:51:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:51:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 16, 'symbol': 'zhfbtc', 'price': 0.9872, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943711, 'sign': '47bf0be9a1b76abe9333497521daaa32'}
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 35}}
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 17, 'symbol': 'zhfbtc', 'price': 0.41679999999999995, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943712, 'sign': 'c0ffe41ae9c448709d2c7560d5bdff6c'}
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 18, 'symbol': 'zhfbtc', 'price': 0.6264, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943712, 'sign': '4771c4ba8f785f3da6a0512397cee096'}
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:52:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 36}}
+Tue, 01 Sep 2020 15:01:53:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 19, 'symbol': 'zhfbtc', 'price': 1.0326, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943713, 'sign': 'e0706db543fb868000d33654228d0a79'}
+Tue, 01 Sep 2020 15:01:53:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:53:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 37}}
+Tue, 01 Sep 2020 15:01:53:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 20, 'symbol': 'zhfbtc', 'price': 1.0516999999999999, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598943713, 'sign': '38a60cf51e8b5655f309f57fe1079bcc'}
+Tue, 01 Sep 2020 15:01:53:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Tue, 01 Sep 2020 15:01:53:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Tue, 01 Sep 2020 15:01:56:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc', 'type': 'step0'}
+Tue, 01 Sep 2020 15:01:56:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 15:01:56:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 15:02:45:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 15:02:45:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 15:02:45:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 15:02:59:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 15:02:59:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 15:02:59:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 15:04:00:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 15:04:00:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 15:04:00:wirte_log.py[line:18] INFO 1.2
+Tue, 01 Sep 2020 15:04:11:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 15:04:11:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 15:04:11:wirte_log.py[line:18] INFO 1.2
+Tue, 01 Sep 2020 15:05:30:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 15:05:30:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 15:05:30:wirte_log.py[line:18] INFO 1.2
+Tue, 01 Sep 2020 15:05:31:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 15:05:31:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 15:05:31:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 15:05:43:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 15:05:43:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 15:05:43:wirte_log.py[line:18] INFO 1.2
+Tue, 01 Sep 2020 15:05:43:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step1'}
+Tue, 01 Sep 2020 15:05:43:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 15:05:43:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 15:07:09:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 15:07:09:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 15:07:09:wirte_log.py[line:18] INFO 1.2
+Tue, 01 Sep 2020 15:07:09:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 15:07:09:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 15:07:09:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 16:39:13:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 16:39:13:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 16:39:13:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 16:39:14:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 16:39:14:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 16:39:14:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 16:43:22:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 16:43:22:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 16:43:22:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 16:43:23:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 16:43:23:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 16:43:23:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 16:43:55:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 16:43:55:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 16:43:55:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 16:43:56:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 16:43:56:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 16:43:56:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 16:49:39:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 16:49:39:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 16:49:39:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 16:49:40:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 16:49:40:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 16:49:40:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 18:15:18:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 18:15:18:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 18:15:18:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 18:15:19:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 18:15:19:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 18:15:19:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 18:18:24:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 18:18:24:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 18:18:24:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 18:18:25:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 18:18:25:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 18:18:25:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 18:18:38:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 18:18:38:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 18:18:38:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 18:18:39:wirte_log.py[line:18] INFO {'symbol': 'eosusdt ', 'type': 'step0'}
+Tue, 01 Sep 2020 18:18:39:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 18:18:39:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {'asks': [[3.3382, 90], [3.3386, 4.4051], [3.3395, 157.4757], [3.3434, 242.3123], [3.3447, 167.4914], [3.346, 283.816], [3.3469, 380.7369], [3.3474, 264.0495], [3.3482, 50], [3.3487, 113.4742], [3.35, 194.6251], [3.3501, 433.1267], [3.351, 288.723], [3.3527, 342.7025], [3.3541, 122.144], [3.3554, 350.8344], [3.3567, 490.743], [3.3581, 294.7619], [3.3598, 13.5188], [3.3688, 63], [3.385, 507.7443], [3.39, 39.1424], [3.3934, 36.5466], [3.4, 10.5395], [3.4506, 8.6232], [3.46, 11.0374], [3.4992, 90], [3.5, 87.3336], [3.5342, 121.85], [3.55, 136.0685], [3.56, 90.1628], [3.5692, 193.7245], [3.6042, 160.3987], [3.6392, 372.0439], [3.66, 10], [3.674, 5], [3.6742, 243.8596], [3.6974, 204.7297], [3.7442, 370.3521], [3.7792, 129.4052], [3.8, 119.3345], [3.8142, 244.1747], [3.8322, 287.583], [3.8367, 397.8017], [3.85, 84.7375], [3.8745, 115.7793], [3.88, 86.8877], [3.9067, 350.5304], [3.9271, 348.6461], [3.9496, 330.4191], [3.9891, 201.9207], [3.9992, 206.8763], [4, 1417.7972], [4.0171, 387.094], [4.0241, 516.8357], [4.05, 1.462], [4.0669, 109.8508], [4.0956, 620.9509], [4.1071, 41.214], [4.1159, 237.8132], [4.2, 385.5932], [4.5, 69.86], [4.84, 200.6464], [5, 0.0001], [5.4, 4.5567], [5.6, 5.4982], [6.2142, 38.6616], [30, 1803.481]], 'bids': [[3.3356, 3.6078], [3.3323, 90], [3.3313, 124.0701], [3.3299, 278.591], [3.3286, 102.6678], [3.3273, 234.4513], [3.3259, 253.2023], [3.3246, 288.0506], [3.3239, 348.3633], [3.3225, 112.649], [3.3206, 485.6581], [3.3193, 387.9678], [3.3179, 316.6304], [3.3139, 340.062], [3.3111, 539.4822], [3.3101, 477.7064], [3.187, 183.7747], [3.1737, 90], [3.166, 5], [3.1654, 10], [3.165, 19.368], [3.151, 5], [3.15, 5], [3.1491, 38.2331], [3.1365, 91.1885], [3.1048, 95.0117], [3.09, 10], [3.0731, 218.2094], [3.0618, 90], [3.06, 951.187], [3.0512, 5.5115], [3.0437, 0.6791], [3.0414, 154.1057], [3.04, 50], [3.025, 92.0958], [3.02, 10], [3.0196, 0.6791], [3.0097, 302.4773], [3.0001, 1.0007], [3, 355.9366], [2.99, 10], [2.9757, 180.5862], [2.96, 10], [2.95, 10], [2.9499, 304.3801], [2.93, 10], [2.92, 162.6541], [2.9124, 147.3867], [2.9, 95], [2.89, 20.1], [2.8865, 473.9792], [2.88, 10], [2.87, 10], [2.86, 10], [2.85, 15], [2.8491, 454.0934], [2.8051, 169.5705], [2.8, 565.8498], [2.7858, 273.5281], [2.7596, 138.2832], [2.7279, 161.2823], [2.6962, 462.81], [2.66, 88.4436], [2.62, 2], [2.605, 10.1], [2.6, 209.1106], [2.58, 50], [2.5674, 537.2778], [2.556, 6], [2.55, 100], [2.5368, 438.1301], [2.5063, 137.093], [2.5, 50], [2.4757, 592.6854], [2.45, 83.8929], [2.4451, 261.6464], [2.4146, 614.0139], [2.4, 80], [2.3502, 599.6727], [2.316, 39.2525], [2.01, 1.5], [1.65, 89.6787], [1.5, 1.5866]], 'time': 1598955518800}}}
+Tue, 01 Sep 2020 18:18:51:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 18:18:51:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 18:18:51:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 18:18:51:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc ', 'type': 'step0'}
+Tue, 01 Sep 2020 18:18:51:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 18:18:51:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 18:19:04:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 18:19:04:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 18:19:04:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 18:19:04:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'type': 'step0'}
+Tue, 01 Sep 2020 18:19:04:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 18:19:04:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 18:42:57:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 18:42:57:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 18:42:57:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 18:42:58:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc', 'type': 'step0'}
+Tue, 01 Sep 2020 18:42:58:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 18:42:58:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Tue, 01 Sep 2020 18:43:20:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Tue, 01 Sep 2020 18:43:20:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Tue, 01 Sep 2020 18:43:20:wirte_log.py[line:18] INFO 1.2114
+Tue, 01 Sep 2020 18:43:21:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc', 'type': 'step0'}
+Tue, 01 Sep 2020 18:43:21:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Tue, 01 Sep 2020 18:43:21:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}

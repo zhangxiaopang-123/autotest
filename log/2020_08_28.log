@@ -1,0 +1,285 @@
+Fri, 28 Aug 2020 13:13:59:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt'}
+Fri, 28 Aug 2020 13:13:59:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Fri, 28 Aug 2020 13:13:59:wirte_log.py[line:18] INFO 50.0
+Fri, 28 Aug 2020 13:14:00:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'type': 'step0'}
+Fri, 28 Aug 2020 13:14:00:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Fri, 28 Aug 2020 13:14:00:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Fri, 28 Aug 2020 13:16:04:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt'}
+Fri, 28 Aug 2020 13:16:04:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Fri, 28 Aug 2020 13:16:04:wirte_log.py[line:18] INFO 50.0
+Fri, 28 Aug 2020 13:16:04:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'type': 'step0'}
+Fri, 28 Aug 2020 13:16:04:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Fri, 28 Aug 2020 13:16:04:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Fri, 28 Aug 2020 13:18:58:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt'}
+Fri, 28 Aug 2020 13:18:58:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Fri, 28 Aug 2020 13:18:58:wirte_log.py[line:18] INFO 50.0
+Fri, 28 Aug 2020 13:18:59:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'type': 'step0'}
+Fri, 28 Aug 2020 13:18:59:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Fri, 28 Aug 2020 13:18:59:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Fri, 28 Aug 2020 13:20:09:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt'}
+Fri, 28 Aug 2020 13:20:09:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Fri, 28 Aug 2020 13:20:09:wirte_log.py[line:18] INFO 50.0
+Fri, 28 Aug 2020 13:20:10:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'type': 'step0'}
+Fri, 28 Aug 2020 13:20:10:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Fri, 28 Aug 2020 13:20:10:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 1, 'symbol': 'zhfusdt', 'price': 50.6189, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592010, 'sign': 'ba7b3ce0e4522b8e97276e02ff479ad1'}
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53823}}
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 2, 'symbol': 'zhfusdt', 'price': 50.5258, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592011, 'sign': 'bda0170bb1431938f7f8298ad5a35412'}
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53824}}
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 3, 'symbol': 'zhfusdt', 'price': 50.047, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592011, 'sign': '514ed62ad57810dcd8eb463e72030f1f'}
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:11:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53825}}
+Fri, 28 Aug 2020 13:20:12:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 4, 'symbol': 'zhfusdt', 'price': 50.3181, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592012, 'sign': '23c5276e5179a37573aaddd428cc136d'}
+Fri, 28 Aug 2020 13:20:12:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:12:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53826}}
+Fri, 28 Aug 2020 13:20:12:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 5, 'symbol': 'zhfusdt', 'price': 50.9595, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592012, 'sign': '6596e8f33183493b372976c2fa2c8f4a'}
+Fri, 28 Aug 2020 13:20:12:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:12:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53827}}
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 6, 'symbol': 'zhfusdt', 'price': 50.5988, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592012, 'sign': '948f5c5f42a62209f39099efa41ec116'}
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53828}}
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 7, 'symbol': 'zhfusdt', 'price': 50.4717, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592013, 'sign': 'fd902a870665fcd7b117cba95d46fc1f'}
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53829}}
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 8, 'symbol': 'zhfusdt', 'price': 50.1164, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592013, 'sign': 'be236b73254cb9e1070539a178e5fe3d'}
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:13:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53830}}
+Fri, 28 Aug 2020 13:20:14:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 9, 'symbol': 'zhfusdt', 'price': 50.552, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592014, 'sign': 'ee6557e29184be3761ade8536109d633'}
+Fri, 28 Aug 2020 13:20:14:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:14:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53831}}
+Fri, 28 Aug 2020 13:20:15:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 10, 'symbol': 'zhfusdt', 'price': 50.9538, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592014, 'sign': '4990eea5272ae941158f1e4bf6c36630'}
+Fri, 28 Aug 2020 13:20:15:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:15:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53832}}
+Fri, 28 Aug 2020 13:20:15:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 11, 'symbol': 'zhfusdt', 'price': 50.3325, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592015, 'sign': '6b123a925063bad37af45273d54cb919'}
+Fri, 28 Aug 2020 13:20:15:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:15:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53833}}
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 12, 'symbol': 'zhfusdt', 'price': 50.8268, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592015, 'sign': 'f0a2e8805a89520faf6f832ee0d1c26a'}
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53834}}
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 13, 'symbol': 'zhfusdt', 'price': 50.7531, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592016, 'sign': '6b7e69c69f04c98e90e1957eb652ea2d'}
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53835}}
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 14, 'symbol': 'zhfusdt', 'price': 50.8366, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592016, 'sign': 'c9b41693279efd788e4339bdea448890'}
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:16:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53836}}
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 15, 'symbol': 'zhfusdt', 'price': 50.2918, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592016, 'sign': '3c584d6fdeebc503083cd39eb7308b92'}
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53837}}
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 16, 'symbol': 'zhfusdt', 'price': 50.7564, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592017, 'sign': '54eb305663fc2aa0f8a4cb61161ca5dc'}
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53838}}
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 17, 'symbol': 'zhfusdt', 'price': 50.7899, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592017, 'sign': '359c3a2668d705a5c9d91701e94bde17'}
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:17:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53839}}
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 18, 'symbol': 'zhfusdt', 'price': 50.9227, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592018, 'sign': '1f74acb00cd52f6963b9f8bf3d0444c7'}
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53840}}
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 19, 'symbol': 'zhfusdt', 'price': 50.3191, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592018, 'sign': 'bf46a89d341a6b14314d32d16afb07f1'}
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53841}}
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 20, 'symbol': 'zhfusdt', 'price': 50.4406, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592018, 'sign': 'b01e76f65f6512e3890b39e28f1e2dbb'}
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:18:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53842}}
+Fri, 28 Aug 2020 13:20:19:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 1, 'symbol': 'zhfusdt', 'price': 49.6574, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592019, 'sign': '5ba81df4720766f26f76f18d5a266ce8'}
+Fri, 28 Aug 2020 13:20:19:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:19:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53843}}
+Fri, 28 Aug 2020 13:20:19:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 2, 'symbol': 'zhfusdt', 'price': 49.5144, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592019, 'sign': 'f85b381154bfb9de0527711628e736a7'}
+Fri, 28 Aug 2020 13:20:19:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:19:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53844}}
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 3, 'symbol': 'zhfusdt', 'price': 49.7792, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592019, 'sign': 'de553b15aed6d8b9d2f4aee5588a1968'}
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53845}}
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 4, 'symbol': 'zhfusdt', 'price': 49.0185, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592020, 'sign': '7bb0af4aa6aca74dbf1453a48c1fd8eb'}
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53846}}
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 5, 'symbol': 'zhfusdt', 'price': 49.1306, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592020, 'sign': '17294fbf939cf86949a1716a902b3892'}
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:20:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53847}}
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 6, 'symbol': 'zhfusdt', 'price': 49.7194, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592020, 'sign': '8c56a52d9340f793409a39d0d6669a76'}
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53848}}
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 7, 'symbol': 'zhfusdt', 'price': 49.9965, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592021, 'sign': '25bcb9602faa2cc77c32190b87a280b6'}
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53849}}
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 8, 'symbol': 'zhfusdt', 'price': 49.3996, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592021, 'sign': 'bf8383b492950e71c5dcf9d83dc24711'}
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:21:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53850}}
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 9, 'symbol': 'zhfusdt', 'price': 49.0136, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592022, 'sign': '32c7e1c16098644323b63be02d23e11a'}
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 10, 'symbol': 'zhfusdt', 'price': 49.94, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592022, 'sign': '1b67d4e84267d169d6a9df161505d5ae'}
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 11, 'symbol': 'zhfusdt', 'price': 49.7289, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592022, 'sign': 'b14b2448e174e9c21f86f5ac100efa45'}
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:22:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 12, 'symbol': 'zhfusdt', 'price': 49.1319, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592023, 'sign': '02175e1252dd720b10d5107140db4857'}
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 13, 'symbol': 'zhfusdt', 'price': 49.414, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592023, 'sign': '9c756fce0ed1c1d7320066b7f62b6890'}
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 14, 'symbol': 'zhfusdt', 'price': 49.3246, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592023, 'sign': '1c0879d38a64126df7179d87e064bd74'}
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:23:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 15, 'symbol': 'zhfusdt', 'price': 49.7564, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592024, 'sign': '69f3c69d1cfbc87b9a5bd554ddd0c4eb'}
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 16, 'symbol': 'zhfusdt', 'price': 49.1044, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592024, 'sign': 'b49e66d70320228334f9cff73e2e3d09'}
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 17, 'symbol': 'zhfusdt', 'price': 49.3742, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592024, 'sign': 'efe5d1f4eb6882bfcae1cbbc4e590756'}
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:24:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:25:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 18, 'symbol': 'zhfusdt', 'price': 49.7459, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592025, 'sign': '5974fc2cb247ee54c8ed39dab3dfcc23'}
+Fri, 28 Aug 2020 13:20:25:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:25:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:26:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 19, 'symbol': 'zhfusdt', 'price': 49.1246, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592025, 'sign': '7bf92a8dbdc032864cad15e0547218ab'}
+Fri, 28 Aug 2020 13:20:26:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:26:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:26:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 20, 'symbol': 'zhfusdt', 'price': 49.3983, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592026, 'sign': '628191f563732e67900e8b99f11f6cc0'}
+Fri, 28 Aug 2020 13:20:26:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 13:20:26:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 13:20:29:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'type': 'step0'}
+Fri, 28 Aug 2020 13:20:29:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Fri, 28 Aug 2020 13:20:29:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Fri, 28 Aug 2020 13:24:30:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'api_key': '893fabccc64749980808774244b60330', 'time': 1598592270, 'sign': '790e318d3f464eaf3be474aa6c9549ea'}
+Fri, 28 Aug 2020 13:24:30:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/cancel_order_all
+Fri, 28 Aug 2020 13:24:30:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': None}
+Fri, 28 Aug 2020 13:40:29:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'api_key': '893fabccc64749980808774244b60330', 'time': 1598593229, 'sign': 'c9f814243e73393a2d5a73409b31feab'}
+Fri, 28 Aug 2020 13:40:29:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/cancel_order_all
+Fri, 28 Aug 2020 13:40:29:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': None}
+Fri, 28 Aug 2020 14:03:50:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594629, 'sign': 'cd8db1f85869f355edc6a0caa4944744'}
+Fri, 28 Aug 2020 14:03:50:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/cancel_order_all
+Fri, 28 Aug 2020 14:03:50:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': None}
+Fri, 28 Aug 2020 14:04:00:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt'}
+Fri, 28 Aug 2020 14:04:00:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Fri, 28 Aug 2020 14:04:00:wirte_log.py[line:18] INFO 50.0
+Fri, 28 Aug 2020 14:04:01:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'type': 'step0'}
+Fri, 28 Aug 2020 14:04:01:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Fri, 28 Aug 2020 14:04:01:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
+Fri, 28 Aug 2020 14:04:01:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 1, 'symbol': 'zhfusdt', 'price': 50.1172, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594641, 'sign': 'cebf5432f03b314e1550910595b0775d'}
+Fri, 28 Aug 2020 14:04:01:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:01:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53863}}
+Fri, 28 Aug 2020 14:04:02:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 2, 'symbol': 'zhfusdt', 'price': 50.3837, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594642, 'sign': '7a333c4ddb6bfbaa92e6fea8264a3fbe'}
+Fri, 28 Aug 2020 14:04:02:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:02:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53864}}
+Fri, 28 Aug 2020 14:04:02:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 3, 'symbol': 'zhfusdt', 'price': 50.5397, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594642, 'sign': 'e9a99c6fd45864a11c3fb9ee6198c58d'}
+Fri, 28 Aug 2020 14:04:02:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:02:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53865}}
+Fri, 28 Aug 2020 14:04:03:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 4, 'symbol': 'zhfusdt', 'price': 50.289, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594642, 'sign': '64d33fea68fb3ff953a690dadcee7e03'}
+Fri, 28 Aug 2020 14:04:03:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:03:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53866}}
+Fri, 28 Aug 2020 14:04:03:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 5, 'symbol': 'zhfusdt', 'price': 50.4674, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594643, 'sign': '3c0cc360ec74b1bbd26fccc004d5f79c'}
+Fri, 28 Aug 2020 14:04:03:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:03:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53867}}
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 6, 'symbol': 'zhfusdt', 'price': 50.1953, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594643, 'sign': 'b803341962a210acefbb439492c46228'}
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53868}}
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 7, 'symbol': 'zhfusdt', 'price': 50.8619, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594644, 'sign': '7370f892a3640c36a404a899c76ad988'}
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53869}}
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 8, 'symbol': 'zhfusdt', 'price': 50.072, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594644, 'sign': '6de2501ba660eed49927bee002460d98'}
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:04:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53870}}
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 9, 'symbol': 'zhfusdt', 'price': 50.1495, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594644, 'sign': '3f936624ccf8ee034d15b794390831bf'}
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53871}}
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 10, 'symbol': 'zhfusdt', 'price': 50.2469, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594645, 'sign': '35f919d5a98702018e2566c629da79ad'}
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53872}}
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 11, 'symbol': 'zhfusdt', 'price': 50.1952, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594645, 'sign': '27af2022cfb06c54fecf1462fed40a4b'}
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:05:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53873}}
+Fri, 28 Aug 2020 14:04:06:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 12, 'symbol': 'zhfusdt', 'price': 50.8221, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594646, 'sign': 'c8cb1c1ab396553982fa41569d5dbcdf'}
+Fri, 28 Aug 2020 14:04:06:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:06:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53874}}
+Fri, 28 Aug 2020 14:04:06:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 13, 'symbol': 'zhfusdt', 'price': 50.0134, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594646, 'sign': '5b0eb0a2f65ef2ddd5f5a90cd940eea0'}
+Fri, 28 Aug 2020 14:04:06:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:06:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53875}}
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 14, 'symbol': 'zhfusdt', 'price': 50.5552, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594646, 'sign': '6ef5d8b2ba25f554f6de9769aaa74030'}
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53876}}
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 15, 'symbol': 'zhfusdt', 'price': 50.3542, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594647, 'sign': 'efac9a0f9ade2500b83363cd95051afa'}
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53877}}
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 16, 'symbol': 'zhfusdt', 'price': 50.1668, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594647, 'sign': 'e1f11ab19cfbac3681f3192d465ad053'}
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:07:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53878}}
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 17, 'symbol': 'zhfusdt', 'price': 50.2959, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594647, 'sign': 'b434147d92cdee5a017532c93b6d820b'}
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53879}}
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 18, 'symbol': 'zhfusdt', 'price': 50.5574, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594648, 'sign': '6ba259ad2203be50475b1da368728eba'}
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53880}}
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 19, 'symbol': 'zhfusdt', 'price': 50.9178, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594648, 'sign': 'a1af993618b1f51a63906b056eb6671d'}
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:08:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53881}}
+Fri, 28 Aug 2020 14:04:09:wirte_log.py[line:18] INFO {'side': 'SELL', 'type': 1, 'volume': 20, 'symbol': 'zhfusdt', 'price': 50.4186, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594649, 'sign': 'f384c82366345f9fc64869d8ada033e9'}
+Fri, 28 Aug 2020 14:04:09:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:09:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53882}}
+Fri, 28 Aug 2020 14:04:09:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 1, 'symbol': 'zhfusdt', 'price': 49.8641, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594649, 'sign': 'fee996162a0e309942f6cea64394dcd9'}
+Fri, 28 Aug 2020 14:04:09:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:09:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53883}}
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 2, 'symbol': 'zhfusdt', 'price': 49.1402, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594649, 'sign': '928adecba1826a5108379fc728591721'}
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'order_id': 53884}}
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 3, 'symbol': 'zhfusdt', 'price': 49.2332, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594650, 'sign': '413f82f60dc1ef7b27adb280749e89e4'}
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 4, 'symbol': 'zhfusdt', 'price': 49.1126, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594650, 'sign': '58e3d4795ea03e784d5a3ee78e594069'}
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:10:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 5, 'symbol': 'zhfusdt', 'price': 49.3684, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594650, 'sign': '46c8cc86d11098e89df2632c04fddf17'}
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 6, 'symbol': 'zhfusdt', 'price': 49.667, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594651, 'sign': '4cd1bc6399abaa7305a9ce28bbbff595'}
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 7, 'symbol': 'zhfusdt', 'price': 49.2563, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594651, 'sign': 'd971dececbbd18e3c34445438355c7f7'}
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:11:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 8, 'symbol': 'zhfusdt', 'price': 49.7118, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594651, 'sign': 'c5e7fb9f73183ba48bff0362b5c280da'}
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 9, 'symbol': 'zhfusdt', 'price': 49.0846, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594652, 'sign': 'ab45669268f1aaf9b606b29e804fb511'}
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 10, 'symbol': 'zhfusdt', 'price': 49.3618, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594652, 'sign': '8a609d63ab2a69d0bdde902507719b6b'}
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:12:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:13:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 11, 'symbol': 'zhfusdt', 'price': 49.3826, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594652, 'sign': '52d7c7710986a29ba12d5e373c2090b7'}
+Fri, 28 Aug 2020 14:04:13:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:13:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:13:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 12, 'symbol': 'zhfusdt', 'price': 49.6073, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594653, 'sign': '001dc99536b430c9e885ee60d740f176'}
+Fri, 28 Aug 2020 14:04:13:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:13:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:14:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 13, 'symbol': 'zhfusdt', 'price': 49.4704, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594653, 'sign': '7d893b6ffa193e347e98095df558dcc2'}
+Fri, 28 Aug 2020 14:04:14:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:14:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:14:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 14, 'symbol': 'zhfusdt', 'price': 49.8673, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594654, 'sign': '81291516b03f99ea5b2b4d95da9deba8'}
+Fri, 28 Aug 2020 14:04:14:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:14:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:15:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 15, 'symbol': 'zhfusdt', 'price': 49.2148, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594654, 'sign': 'd0ef6646af87e7fd31fd4653fe66b276'}
+Fri, 28 Aug 2020 14:04:15:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:15:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:15:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 16, 'symbol': 'zhfusdt', 'price': 49.2576, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594655, 'sign': '7538673c7df5d18ea07795050c7a243a'}
+Fri, 28 Aug 2020 14:04:15:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:15:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 17, 'symbol': 'zhfusdt', 'price': 49.3082, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594655, 'sign': 'ebe8cc8bfbbc395f4e60323505ccfe1a'}
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 18, 'symbol': 'zhfusdt', 'price': 49.6107, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594656, 'sign': 'dfdb63eb9d247072900ffd508777f530'}
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 19, 'symbol': 'zhfusdt', 'price': 49.8421, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594656, 'sign': '1c794694666ab07a1265654575d2152c'}
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:16:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:17:wirte_log.py[line:18] INFO {'side': 'BUY', 'type': 1, 'volume': 20, 'symbol': 'zhfusdt', 'price': 49.8647, 'api_key': '893fabccc64749980808774244b60330', 'time': 1598594656, 'sign': '9f7db275c29996027649f3ceedd48289'}
+Fri, 28 Aug 2020 14:04:17:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/create_order
+Fri, 28 Aug 2020 14:04:17:wirte_log.py[line:18] INFO {'code': '5', 'msg': 'Place the order failed', 'data': None}
+Fri, 28 Aug 2020 14:04:19:wirte_log.py[line:18] INFO {'symbol': 'zhfusdt', 'type': 'step0'}
+Fri, 28 Aug 2020 14:04:19:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Fri, 28 Aug 2020 14:04:19:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}

@@ -1,0 +1,6 @@
+Thu, 03 Sep 2020 09:53:39:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc'}
+Thu, 03 Sep 2020 09:53:39:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market
+Thu, 03 Sep 2020 09:53:39:wirte_log.py[line:18] INFO 1.2114
+Thu, 03 Sep 2020 09:53:40:wirte_log.py[line:18] INFO {'symbol': 'zhfbtc', 'type': 'step0'}
+Thu, 03 Sep 2020 09:53:40:wirte_log.py[line:18] INFO http://openapinx.v3.wbfexchina.top/open/api/market_dept
+Thu, 03 Sep 2020 09:53:40:wirte_log.py[line:18] INFO {'code': '0', 'msg': 'suc', 'data': {'tick': {}}}
